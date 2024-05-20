@@ -1,7 +1,0 @@
-# Recebendo uma lista de usuários e, devo extrair informações como:
-
-* Lista de pares;
-* Total de conexões e a média;
-* pessoas mais conectadas e o maior número de amigos;
-* contagem de amigos em comum
-* Interesses similares entre usuários
