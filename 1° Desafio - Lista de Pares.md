@@ -25,7 +25,7 @@ users = [
 # cientista de dados com a id 1 (Dunn) são amigos;
 friendships = [(0, 1), (0, 2), (1, 2), (1, 3), (2, 3), (3, 4), (4, 5), (5, 6), (5, 7), (6, 8), (7, 8), (8, 9) ]
 ~~~
-Já temos os usuários representados como dicts, vamos aumentá-los com dados extras:
+Já temos os usuários representados como dicionario, vamos aumentá-los com dados extras:
 Iremos add uma lista de amigos para cada usuário:
 
 ~~~python
